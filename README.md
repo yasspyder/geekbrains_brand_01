@@ -1,2 +1,2 @@
 # geekbrains_brand_01
-The Geelbrains-project with Brand template
+The Geekbrains-project with Brand template
